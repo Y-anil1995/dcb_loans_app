@@ -1,2 +1,12 @@
+<<<<<<< Updated upstream
 this is prod issue
 i ma busy in this work
+=======
+hi
+hello
+very vert
+im devops
+im workiong on java project
+>>>>>>> Stashed changes
+rahul im devips 
+this is git
